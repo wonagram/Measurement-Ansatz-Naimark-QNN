@@ -1,0 +1,7 @@
+qiskit==2.5.2
+qiskit-aer==0.17.1
+numpy==2.2.6
+scipy==1.14.1
+pandas==3.0.5
+matplotlib==3.11.1
+PennyLane==0.38.0
